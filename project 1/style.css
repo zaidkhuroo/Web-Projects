@@ -1,0 +1,90 @@
+html{
+    height: 100%;
+}
+header{
+    height: 120px;
+    text-align: center;
+}
+nav{
+    background-color:rgba(0, 0, 0, 0.569);
+    height: 25px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+main{
+    background-color: rgba(0, 0, 0, 0.391);
+    height: 250px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    
+  
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.728);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 900px;
+   
+  
+}
+
+.container{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+body{
+background-color: #454545;
+background-image:url(image/foods.jpg);
+background-size: cover;
+background-position: fill;
+
+}
+h1{
+    font-size: 70px;
+    color: rgb(252, 226, 226);
+    font-family: Arial;
+   
+}
+p{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    
+}
+a
+{
+    color: rgb(234, 240, 234);
+    font-family: 'Times New Roman';
+    /*text-decoration: none;*/
+}
+nav a {
+
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+.maps{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    
+}
+footer p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+    
+ }
+ .youtube{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
